@@ -1,0 +1,33 @@
+body {
+    padding: 50px;
+    margin: 0;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+h2{
+    text-align: center;
+}
+
+td, th {
+    padding: 20px;
+    border: 1px solid black;
+    text-align: center;
+    font-weight:400;
+}
+th{
+    font-family: 'Patua One', cursive;
+    font-size:16px;
+    color:#fff;
+    background-color: #d61b06;
+    border-color: white;
+}
+td{
+    font-family: 'Open Sans', sans-serif;
+    color:#5f6062;
+    font-size:13px;
+    border-bottom:1px solid #e0e0e0;
+}
